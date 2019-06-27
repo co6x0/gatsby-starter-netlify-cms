@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Hello Gatsby & Netlify CMS!
 date: 2019-06-27T13:55:37.457Z
 description: こんにちはギャッツビーとネットリファイCMSさん！
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
   - Dev
